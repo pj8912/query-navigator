@@ -1,4 +1,4 @@
-# query-navigator
+# Query Navigator
 
 ![query-navigator-cover](https://github.com/user-attachments/assets/20e90441-6460-4da7-90b9-956d5c85e305)
 
@@ -20,10 +20,9 @@ LLM chat queries navigator extension
 
 - Click in `Load Unpacked`
 
-- Open `query-navigator`(this repo) and select `quert-extension` folder
+- Select and open `query-navigator`(this repo) and select `query-extension` folder
 
-- You can see **Q** in the extension, click on it and start using it.
-
+- You can see **Q** icon in the extension, click on it.
 
 
 ## Features
